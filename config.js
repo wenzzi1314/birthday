@@ -14,7 +14,7 @@ var config = {
     ],
     imgs: {
         "最可爱的小美玉": "./imgs/meiyu.png",
-        //"For the best of you": "./imgs/birthday.jpg",
+        "For the best of you": "./imgs/m1.jpg",
     },
     desc: {
         turn_on: "开始",
