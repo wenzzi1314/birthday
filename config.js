@@ -17,7 +17,7 @@ var config = {
         "For the best of you": "./imgs/m1.jpg",
     },
     desc: {
-        turn_on: "开始",
+        turn_on: "嘿，点这里",
         play: "少点声音？",
         bannar_coming: "颜色好像有些单调",
         balloons_flying: "好像还是少点东西",
